@@ -37,9 +37,8 @@
                             </li>
                             <li class="dropdown pull-right">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                                <span class="caret">
-                            	</span>
-                                نمونه کارها
+
+                                نمونه کارها <span class="caret"></span>
                             	</a>
                                 <ul class="dropdown-menu dropdown-menu-right" role="menu">
                                 	<li class="text-right"><a href="#">نمونه کار 1</a></li>
